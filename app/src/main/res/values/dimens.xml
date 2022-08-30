@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">56dp</dimen>
+    <dimen name="item_margin">12dp</dimen>
+    <dimen name="character_details_text_margin">24dp</dimen>
+</resources>
